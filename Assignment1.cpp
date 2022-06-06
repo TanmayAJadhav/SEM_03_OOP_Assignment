@@ -81,7 +81,7 @@ int main()
 
         case 2:
             c3 = c1 - c2;
-            cout << "The sub is: " << c3 << endl;
+            cout << "The subtraction is: " << c3 << endl;
             break;
 
         case 3:
